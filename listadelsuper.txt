@@ -1,6 +1,8 @@
 ---verduras---
 tomate
 lechuga
+palta
+cebolla
 
 ---carne----
 tapa de asado
