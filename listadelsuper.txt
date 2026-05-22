@@ -6,4 +6,3 @@ cebolla
 
 ---carne----
 tapa de asado
-milanesa
